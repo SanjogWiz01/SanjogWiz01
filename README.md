@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I'm a Computer Engineering student from Nepal <br> with a strong interest in software development, <br>machine learning, and cybersecurity.<br>I enjoy learning how systems work from the<br>ground up—whether it's writing C/C++ programs, <br>building projects in Python or exploring data science and <br>security concepts.🌱 I’m currently learning **PYTHON and its Machine Learning LIbary**
+I'm a Computer Engineering student from Nepal  with a strong interest in software development,machine learning, and cybersecurity.<br>I enjoy learning how systems work from the ground up—whether it's writing C/C++ programs, building projects in Python or exploring data science and security concepts.<br>🌱 I’m currently learning **PYTHON and its Machine Learning LIbary**
 
 
 
