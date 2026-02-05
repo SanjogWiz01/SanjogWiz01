@@ -15,4 +15,4 @@ I enjoy learning how systems work from the ground up—whether it's writing C/C+
 ### ⚡ Daily Loop
 
 ```cpp
-while(true) { 🍽️ Eat(); 😴 Sleep(); 💻 Code(); 🔁 Repeat(); }
+while(true) { 🍽️ Eat(); 😴 Sleep(); 💻 Code(); 🔁 Repeat(); } 
