@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm SANJOG POUDEL</h1>
 
 
-# 💫 About Me:
+# 💫 About Me :
 I'm a Computer Engineering student from Nepal 🇳🇵 with a strong interest in software development, machine learning, and cybersecurity.<br>
 I enjoy learning how systems work from the ground up—whether it's writing C/C++ programs, building projects in Python 🐍, or exploring data science and security concepts.<br>
 🌱 Currently, I'm learning **Python and its Machine Learning libraries** and improving my problem-solving and coding skills step by step.
