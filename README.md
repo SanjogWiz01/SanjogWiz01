@@ -14,7 +14,6 @@ Currently, I'm learning 🌱 **Python and its Machine Learning libraries** and i
 
 ### ⚡ Daily Loop
 
-```cpp
 while(true) { 🍽️ Eat(); 😴 Sleep(); 💻 Code(); 🔁 Repeat(); }
-###A
+### MOST USED LANGUAGE
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjogWiz01&theme=default&show_icons=true&hide_border=true&layout=compact" alt="SanjogWiz01's GitHub Stats" />
