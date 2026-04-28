@@ -2,8 +2,9 @@
 
 # 💫 About Me :
 I'm a Computer Engineering student from Nepal 🇳🇵 with a strong interest in software development, machine learning, and cybersecurity.<br>
-I enjoy learning how systems work from the ground up—whether it's writing C/C++ programs, building projects in Python 🐍, or exploring data science and security concepts.<br>
-Currently, I'm learning 🌱 **Python and its Machine Learning libraries** and improving my problem-solving and coding skills step by step.
+I enjoy learning how systems work from the ground up—whether it's writing C/C++ programs, building projects in Python , or exploring data science and security concepts.<br>
+Currently, I'm learning 
+**Python and its Machine Learning libraries** and improving my problem-solving and coding skills step by step.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SanjogWiz01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjogwiz01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjog-wiz001) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31705255) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sanjogwiz01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sanjogpoudel123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjogpoudel384@gmail.com) 
 
