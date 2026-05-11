@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm SANJOG POUDEL</h1> 
+<h1 align="center">Hi there👋, I'm SANJOG POUDEL</h1>
 
 # 💫 About Me :
 I'm a Computer Engineering student from Nepal 🇳🇵 with a strong interest in software development, machine learning, and cybersecurity.<br>
