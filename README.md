@@ -1,15 +1,82 @@
-<h1 align="center">Hi there👋, I'm SANJOG POUDEL</h1> 
+<div align="center">
+  <img src="https://img.shields.io/badge/Computer%20Engineering-Pokhara%20University-blue?style=for-the-badge" alt="University">
+  <h1>Hi there 👋, I'm Sanjog Poudel</h1>
+  
+  <p>
+    <strong>Computer Engineering Student</strong> | Data Science • Machine Learning • AI Enthusiast<br>
+    Turning ideas into intelligent systems with Python, Java & modern tech.
+  </p>
 
-# 💫 About Me :
-I'm a Computer Engineering student from Nepal 🇳🇵 with a strong interest in software development, machine learning, and cybersecurity.<br>
-I enjoy learning how systems work from the ground up—whether it's writing C/C++ programs, building projects in Python , or exploring data science and security concepts.<br>
-Currently, I'm learning 
-**Python and its Machine Learning libraries** and improving my problem-solving and coding skills step by step.
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SanjogWiz01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjogwiz01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjog-wiz001) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31705255) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sanjogwiz01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sanjogpoudel123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjogpoudel384@gmail.com) 
+  <a href="https://linkedin.com/in/sanjog-wiz001">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+---
+
+### 🚀 About Me
+
+- 🎓 **Computer Engineering** student at **Pokhara University**, Nepal 🇳🇵
+- 💡 Passionate about **Data Science, Machine Learning, AI**, and full-stack development
+- 🔭 Currently building real-world ML projects and strengthening DSA & system design skills
+- 🌱 Learning **Advanced Python, Deep Learning, MLOps & Spring Boot**
+- 👯 Open to **collaborations**, **internships**, and **open source contributions**
+
+### 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Machine Learning & Data**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+
+**Tools & Others**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
+---
+
+### 🔥 Featured Projects
+
+**Check out my pinned repositories below!**  
+(I'm actively improving them — more advanced ML web apps coming soon)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjogWiz01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjogWiz01&theme=tokyonight&hide_border=true" alt="Streak" height="180">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjogWiz01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+- **LinkedIn**: [Sanjog Poudel](https://linkedin.com/in/sanjog-wiz001)
+- **Email**: (add your email)
+- **Open to**: Internships, freelance ML projects, study collaborations
+
+---
+
+**Thanks for visiting!** ✨  
+Feel free to explore my repositories and star the ones you like!
 
 ### ⚡STREAK
 <img src="https://streak-stats.demolab.com?user=SanjogWiz01&theme=default&hide_border=true" alt="SanjogWiz01's GitHub Stats" />
