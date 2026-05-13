@@ -77,6 +77,3 @@
 
 **Thanks for visiting!** ✨  
 Feel free to explore my repositories and star the ones you like!
-
-### ⚡STREAK
-<img src="https://streak-stats.demolab.com?user=SanjogWiz01&theme=default&hide_border=true" alt="SanjogWiz01's GitHub Stats" />
