@@ -65,4 +65,4 @@
 ---
 
 **Thanks for stopping by!** ✨  
-Feel free to explore and star the projects you like!!
+Feel free to explore and star the projects you like!!!
