@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Computer%20Engineering-Pokhara%20University-blue?style=for-the-badge" alt="University">
-  <h1>Hi there 👋, I'm Sanjog Poudel</h1>
+  <h1>Hi there 👋, I'm Sanjog Poudel </h1>
   
   <p>
     <strong>Computer Engineering Student</strong> at Pokhara University, Nepal 🇳🇵<br>
