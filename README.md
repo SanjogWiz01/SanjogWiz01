@@ -5,7 +5,7 @@
     <strong>Computer Engineering Student</strong> at Pokhara University, Nepal 🇳🇵<br>
     Passionate about <strong>Data Science</strong>, <strong>Machine Learning</strong>, <strong>AI</strong> & Software Development
   </p>
-
+ 
   <a href="https://linkedin.com/in/sanjog-wiz001"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
