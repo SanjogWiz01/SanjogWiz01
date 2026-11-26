@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me 
 
 - 🎓 Computer Engineering Student @ **Pokhara University**
 - 💡 Focused on **Machine Learning, Data Science, AI**, and Full-Stack Development
