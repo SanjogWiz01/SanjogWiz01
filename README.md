@@ -24,7 +24,7 @@
 - 🌱 Learning **Deep Learning, MLOps, Spring Boot, System Design**
 - 👯 Open to **internships**, collaborations, and open-source contributions
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
